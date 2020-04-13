@@ -1,0 +1,31 @@
+/*
+* GsInstagram frontend style
+*/
+
+.grid-item img{
+  width:100%;
+}
+.grid-item a p{
+  text-align: center;
+}
+.grid-item {
+  width: 30%;
+  height: auto;
+  border: 1px solid hsla(0, 0%, 0%, 0.5);
+  margin-bottom: 10px;
+}
+
+#loadMore2 {
+    color: #fff;
+    cursor: pointer;
+    font-family: 'GarageGothicBold';
+    background-color: #5BC2E7;
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-size: 18pt;
+    width: 150px;
+    margin: auto;
+    text-align: center;
+    display: inherit;
+    margin-bottom: 11px;
+}
